@@ -2,7 +2,7 @@
 - 👀 I’m interested in sleeping
 - 🌱 I’m currently learning Python and C/ and C++
 - 😄 Pronouns: Stardew Farmer
-- ⚡ Fun fact: I live om Earth
+- ⚡ Fun fact: I live on Earth
 
 <!---
 Razorgaming121/Razorgaming121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
